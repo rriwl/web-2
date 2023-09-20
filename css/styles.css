@@ -41,6 +41,7 @@ b{
 	align-items: center;
 	width:100%; 
 	margin: 0;
+	background-color: #AFEEEE;
 }
 
 th, td {
@@ -61,8 +62,10 @@ tr:nth-child(odd) {
 	justify-content: center;
 	align-items: center;
 	text-align: center;
+	background-color: #AFEEEE;
 }
 
 .form {
 	text-align: center;
+	background-color: #AFEEEE;
 }
