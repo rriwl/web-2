@@ -74,7 +74,7 @@ tr:nth-child(odd) {
 	text-align: center;
 }
 
-.form {
+#form {
 	text-align: center;
 }
 
@@ -155,7 +155,7 @@ tr:nth-child(odd) {
 		text-align: center;
 	}
 	
-	.form {
+	#form {
 		text-align: center;
 	}
 }
