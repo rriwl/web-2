@@ -8,6 +8,18 @@ a{
 	color: black;
 }
 
+.wrapped{
+	display: flex;
+	flex-direction: column;
+	max-width: 960px;
+	padding-left: 16px;
+	padding-right: 16px;
+	margin-left: auto;
+	margin-right: auto;
+	background: #3CB371;
+	text-align: center;
+}
+
 .header{
 	width:100%; 
 	background: #008080;
