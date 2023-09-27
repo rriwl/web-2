@@ -46,7 +46,7 @@ b{
 	margin: 0;
 }
 
-#container {
+.container {
 	display: flex;
 	justify-content: center;
 	align-items: center;
